@@ -1,3 +1,3 @@
 export function Tag() {
-  return <div></div>;
+  return <div>Tag</div>;
 }

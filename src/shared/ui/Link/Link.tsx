@@ -1,3 +1,3 @@
 export function Link() {
-  return <div></div>;
+  return <div>Link</div>;
 }

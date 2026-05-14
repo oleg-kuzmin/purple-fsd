@@ -1,3 +1,3 @@
 export function Graph() {
-  return <div></div>;
+  return <div>Graph</div>;
 }

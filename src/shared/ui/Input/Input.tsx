@@ -1,3 +1,3 @@
 export function Input() {
-  return <div></div>;
+  return <div>Input</div>;
 }

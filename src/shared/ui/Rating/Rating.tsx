@@ -1,3 +1,3 @@
 export function Rating() {
-  return <div></div>;
+  return <div>Rating</div>;
 }

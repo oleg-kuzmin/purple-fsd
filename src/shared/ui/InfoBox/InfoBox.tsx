@@ -1,3 +1,3 @@
 export function InfoBox() {
-  return <div></div>;
+  return <div>InfoBox</div>;
 }
